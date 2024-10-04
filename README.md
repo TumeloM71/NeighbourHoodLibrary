@@ -7,7 +7,6 @@
 //Exiting program
 ![Screenshot (79)](https://github.com/user-attachments/assets/c8139d6a-e959-4b63-9be4-2a1363abbff0)
 //Checking out multiple books
-![Screenshot (82)](https://github.com/user-attachments/assets/f75a9cc0-4fa1-4315-b657-e7337fd7bc87)
 ![Screenshot (83)](https://github.com/user-attachments/assets/0425b025-77f5-4f50-8aa7-71a7d5c2fcf6)
 ![Screenshot (84)](https://github.com/user-attachments/assets/ec3375ff-3eaa-47f4-ad86-622ebdda84e0)
 ![Screenshot (85)](https://github.com/user-attachments/assets/e72d3771-0636-44cf-8b6f-a16e9574d156)
